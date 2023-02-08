@@ -1,4 +1,4 @@
-baseURL = 'https://plankton-inc.github.io/landing_page/'
+baseURL = 'https://plankton-inc.github.io/'
 languageCode = 'en-us'
 title = 'Plankton Labs'
 theme = 'ananke'
