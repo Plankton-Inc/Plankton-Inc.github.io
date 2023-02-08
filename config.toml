@@ -1,0 +1,4 @@
+baseURL = 'https://plankton-inc.github.io/landing_page/'
+languageCode = 'en-us'
+title = 'Plankton Labs'
+theme = 'ananke'
