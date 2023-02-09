@@ -13,8 +13,8 @@ relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Local
-baseURL = "/"
-publishDir = "public"
+#baseURL = "/"
+#publishDir = "public"
 
 # Remote
 baseURL = "https://plankton-inc.github.io/"
