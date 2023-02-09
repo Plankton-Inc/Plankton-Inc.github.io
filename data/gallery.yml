@@ -1,0 +1,29 @@
+title: "Screenshots"
+style: "style2 medium lightbox onscroll-fade-in"
+content:
+pictures:
+  - image: "images/screenshots/ios/screenshot1.jpeg"
+    thumb: "images/screenshots/ios/screenshot1.jpeg"
+    button: "View"
+
+  - image: "images/screenshots/ios/screenshot2.jpeg"
+    thumb: "images/screenshots/ios/screenshot2.jpeg"
+    button: "View"
+
+  - image: "images/screenshots/ios/screenshot3.jpeg"
+    thumb: "images/screenshots/ios/screenshot3.jpeg"
+    button: "View"
+
+  - image: "images/screenshots/ios/screenshot4.jpeg"
+    thumb: "images/screenshots/ios/screenshot4.jpeg"
+    button: "View"
+
+  - image: "images/screenshots/ios/screenshot5.jpeg"
+    thumb: "images/screenshots/ios/screenshot5.jpeg"
+    button: "View"
+
+  - image: "images/screenshots/ios/screenshot6.jpeg"
+    thumb: "images/screenshots/ios/screenshot6.jpeg"
+    button: "View"
+
+    
