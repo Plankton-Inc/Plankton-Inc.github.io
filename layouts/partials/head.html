@@ -7,7 +7,13 @@
 	{{ if .Site.Params.favicon }}
 	{{ partial "favicon" }}
 	{{ end }}
-	
+
+	<meta property="og:title" content="{{ .Site.Title }}"/>
+	<meta property="og:type" content="website"/>
+	<meta property="og:url" content="https://plankton-labs.com"/>
+	<meta property="og:image" content="https://plankton-labs.com/images/plankton-logo.png"/>
+	<meta property="og:site_name" content="{{ .Site.Title }}"/>
+
 	<!-- CSS -->
 	{{ if .Site.IsServer }}
 	{{ $style := resources.Get "sass/main.scss" | resources.ExecuteAsTemplate "scss/main.scss" . | toCSS (dict "targetPath" "css/main.css" "outputStyle" "compressed" "enableSourceMap" false) }}
